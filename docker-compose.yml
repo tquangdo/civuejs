@@ -1,0 +1,28 @@
+version: "3.3"
+services:
+  db-20210130:
+    build:
+      context: ./my-mysql-scripts
+      dockerfile: Dockerfile
+    container_name: mysql8-20210130
+    image: mysql:latest
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: civue
+      MYSQL_USER: devuser
+      MYSQL_PASSWORD: devpass
+    ports:
+      - 3307:3306
+  web-20210130:
+    build:
+      context: ./php
+      dockerfile: Dockerfile
+    container_name: php74-20210130
+    depends_on:
+      - db-20210130
+    volumes:
+      - ./php:/var/www/html/
+    ports:
+      - 8000:80
