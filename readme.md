@@ -1,3 +1,5 @@
+![demo](demo.png)
+
 #######################################
 Simple CRUD with Codeigniter and Vue JS
 #######################################
@@ -28,4 +30,3 @@ Include:
 5. Jquery - need for bootstrap but not use
 6. Axios - AJAX/HTTP library
 
-![demo](demo.png)
