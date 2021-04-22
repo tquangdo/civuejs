@@ -1,3 +1,11 @@
+# CRUD List 🎇
+
+![License](https://img.shields.io/github/license/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
+![Stars](https://img.shields.io/github/stars/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/vue2-ci3-bulma-crud-list/issues/new)
+
 ![demo](demo.png)
 
 #######################################
