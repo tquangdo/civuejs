@@ -1,6 +1,5 @@
 # CRUD List 🎇
 
-![License](https://img.shields.io/github/license/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
 ![Stars](https://img.shields.io/github/stars/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
 ![Issues](https://img.shields.io/github/issues/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
 ![Forks](https://img.shields.io/github/forks/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
@@ -8,10 +7,7 @@
 
 ![demo](demo.png)
 
-#######################################
-Simple CRUD with Codeigniter and Vue JS
-#######################################
-
+## version
 1. PHP version : 7.0
 2. Codeigniter version: 3.1.6
 3. Vue JS version: v2.5.17-beta.0
