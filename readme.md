@@ -5,13 +5,16 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/vue2-ci3-bulma-crud-list/issues/new)
 
-![demo](demo.png)
+![demo](screenshot/demo.png)
+
+## deploy local
+1. docker compose up -d
+2. access browser `localhost:8000`
 
 ## version
 1. PHP version : 7.0
 2. Codeigniter version: 3.1.6
 3. Vue JS version: v2.5.17-beta.0
-
 
 **********
 Functions:
@@ -22,7 +25,6 @@ Functions:
 4. Delete
 5. Search
 6. Pagination
-
 
 ********
 Include:
