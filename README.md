@@ -1,5 +1,6 @@
 # CRUD List 🎇
 
+![badge4](https://img.shields.io/badge/docker-3.3.1-blue)
 ![Stars](https://img.shields.io/github/stars/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
 ![Issues](https://img.shields.io/github/issues/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
 ![Forks](https://img.shields.io/github/forks/tquangdo/vue2-ci3-bulma-crud-list?color=f05340)
@@ -38,4 +39,3 @@ Include:
 4. Font Awesome - for cool icons
 5. Jquery - need for bootstrap but not use
 6. Axios - AJAX/HTTP library
-
